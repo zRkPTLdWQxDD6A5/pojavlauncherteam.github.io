@@ -23,6 +23,7 @@ module.exports = {
         },]
     ],
     base: '/',
+    dest: './docs',
 
 	watch: {
 	    $page(newPage, oldPage) {
