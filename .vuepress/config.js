@@ -119,6 +119,7 @@ module.exports = {
 									sidebarDepth: 1,
 									children: [
 										['/ios/wiki/troubleshooting/specific/0x68', '0x68 is not a valid region'],
+								]
 							]
 						},
 						{
