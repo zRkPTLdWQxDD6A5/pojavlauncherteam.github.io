@@ -4,6 +4,7 @@ const {
 
 module.exports = {
     title: 'PojavLauncher',
+	description: 'Minecraft: Java Edition, meet mobile devices.',
     head: [
         ['meta', {
             name: 'theme-color',
@@ -52,7 +53,6 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-				['/about-pojavlauncher/what-is-it', 'What is PojavLauncher?'],
 				['/about-pojavlauncher/supported-versions', 'Supported Versions'],
 				['/about-pojavlauncher/supported-platforms', 'Supported Devices'],
 				['/about-pojavlauncher/pros-cons', 'Pros and Cons (to real Java)'],
