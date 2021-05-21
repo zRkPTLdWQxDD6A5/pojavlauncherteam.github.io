@@ -112,21 +112,13 @@ module.exports = {
 							sidebarDepth: 1,
 							path: '/ios/wiki/troubleshooting/',
 							children: [
-								['/ios/wiki/going-further/switching-mc-versions', 'Switching Minecraft versions'],
+								['/ios/wiki/troubleshooting/basics', 'Basic troubleshooting steps'],
 								{
-									title: 'Installing non-vanilla Minecraft',
+									title: 'Specific issues',
 									collapsable: true,
 									sidebarDepth: 1,
 									children: [
-										['/ios/wiki/going-further/non-vanilla/forge', 'Forge'],
-										['/ios/wiki/going-further/non-vanilla/fabric', 'Fabric'],
-										['/ios/wiki/going-further/non-vanilla/optifine', 'OptiFine'],
-									]
-								},
-								['/ios/wiki/going-further/controlling-accounts', 'Dealing with accounts'],
-								['/ios/wiki/going-further/environment-variables', 'Wrangling environment variables'],
-								['/ios/wiki/going-further/java-arguments', 'Custom Java arguments'],
-								['/ios/wiki/going-further/overb0arding', 'Fixing memory limits'],
+										['/ios/wiki/troubleshooting/specific/0x68', '0x68 is not a valid region'],
 							]
 						},
 						{
