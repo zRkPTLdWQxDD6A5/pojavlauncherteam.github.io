@@ -95,6 +95,7 @@ module.exports = {
 							sidebarDepth: 1,
 							path: '/android/wiki/faq/',
 							children: [
+								['/android/wiki/faq/optimizing.md', 'Optimizing PojavLauncher'],
 							]
 						},
                         {
