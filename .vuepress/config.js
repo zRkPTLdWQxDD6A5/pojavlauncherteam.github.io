@@ -61,7 +61,7 @@ module.exports = {
         },
         {
             title: 'Android',
-            collapsable: ios,
+            collapsable: true,
             children: [
                 {
                     title: 'Getting Started',
