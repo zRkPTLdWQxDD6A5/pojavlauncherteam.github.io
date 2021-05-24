@@ -70,9 +70,72 @@ module.exports = {
                     sidebarDepth: 1,
                     children: [
                         ['/android/install-guide/google-play', 'Google Play'],
-						['/android/install-guide/manual', 'Manual'],
+						['/android/install-guide/manual', 'GitHub'],
+						['/android/install-guide/building.md', 'Building'],
                     ]
                 },
+				{
+					title: 'Wiki',
+					collapsable: true,
+					path: '/android/wiki/',
+					sidebarDepth: 1,
+					children: [
+						{
+							title: 'Getting Started',
+							collapsable: true,
+							sidebarDepth: 1,
+							path: '/android/wiki/getting-started/',
+							children: [
+								['/android/wiki/getting-started/signing-in', 'Signing into the launcher'],
+							]
+						},
+						{
+							title: 'FAQ',
+							collapsable: true,
+							sidebarDepth: 1,
+							path: '/android/wiki/faq/',
+							children: [
+							]
+						},
+                        {
+							title: 'Troubleshooting',
+							collapsable: true,
+							sidebarDepth: 1,
+							path: '/android/wiki/troubleshooting/',
+							children: [
+								['/android/wiki/troubleshooting/basics', 'Basic troubleshooting steps'],
+								{
+									title: 'Specific issues',
+									collapsable: true,
+									sidebarDepth: 1,
+									path: '/android/wiki/troubleshooting/specific/',
+									children: [
+                                    ]
+                                }
+							]
+						},
+						{
+							title: 'Going further',
+							collapsable: true,
+							sidebarDepth: 1,
+							path: '/android/wiki/going-further/',
+							children: [
+								['/android/wiki/going-further/switching-mc-versions', 'Switching Minecraft versions'],
+								{
+									title: 'Installing non-vanilla Minecraft',
+									collapsable: true,
+									sidebarDepth: 1,
+									children: [
+										['/android/wiki/going-further/non-vanilla/forge', 'Forge'],
+										['/android/wiki/going-further/non-vanilla/fabric', 'Fabric'],
+										['/android/wiki/going-further/non-vanilla/optifine', 'OptiFine'],
+									]
+								},
+							]
+						},
+					]
+				},
+				['/android/roadmap', 'Roadmap'],
             ]
         },
         {
@@ -88,6 +151,7 @@ module.exports = {
 						['/ios/install-guide/procursus', 'Procursus'],
 						['/ios/install-guide/doregon-repo', 'Non-Procursus'],
 						['/ios/install-guide/manual', 'Manual'],
+						['/ios/install-guide/building', 'Building'],
                     ]
                 },
 				{
@@ -148,7 +212,7 @@ module.exports = {
 						},
                     ]
                 },
-				['/ios/roadmap', 'Roadmap']
+				['/ios/roadmap', 'Roadmap'],
             ]
         },
         {
