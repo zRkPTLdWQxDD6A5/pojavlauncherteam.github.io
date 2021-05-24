@@ -159,6 +159,7 @@ module.exports = {
         		['/contribution/launchers.md', 'PojavLauncher itself'],
         		['/contribution/website.md', 'This website'],
         		['/contribution/translations.md', 'Translating'],
+        	]
         },
 		],
     },
