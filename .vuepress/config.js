@@ -61,7 +61,7 @@ module.exports = {
         },
         {
             title: 'Android',
-            collapsable: false,
+            collapsable: ios,
             children: [
                 {
                     title: 'Getting Started',
@@ -77,7 +77,7 @@ module.exports = {
         },
         {
             title: 'iOS',
-            collapsable: false,
+            collapsable: true,
             children: [
                 {
                     title: 'Getting Started',
@@ -150,6 +150,15 @@ module.exports = {
                 },
 				['/ios/roadmap', 'Roadmap']
             ]
+        },
+        {
+        	title: 'Contributions',
+        	collapsable: false,
+        	sidebarDepth: 1,
+        	children: [
+        		['/contribution/launchers.md', 'PojavLauncher itself'],
+        		['/contribution/website.md', 'This website'],
+        		['/contribution/translations.md', 'Translating'],
         },
 		],
     },
