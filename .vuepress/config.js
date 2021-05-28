@@ -47,7 +47,7 @@ module.exports = {
         repo: 'https://github.com/PojavLauncherTeam/pojavlauncherteam.github.io',
 		editLinks: true,
 		editLinkText: 'Help us improve this page!',
-        logo: 'homepage.png',
+        logo: '/homepage.png',
         sidebar: [{
             title: 'About PojavLauncher',
             collapsable: false,
