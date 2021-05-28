@@ -161,6 +161,7 @@ module.exports = {
 					path: '/ios/wiki/',
 					sidebarDepth: 1,
                     children: [
+						['/ios/wiki/controls', 'Using the controls'],
 						{
 							title: 'FAQ',
 							collapsable: true,
@@ -168,6 +169,7 @@ module.exports = {
 							path: '/ios/wiki/faq/',
 							children: [
 								['/ios/wiki/faq/jailbreak', 'Why does iOS need a jailbreak?'],
+								['/ios/wiki/faq/logs', 'Where to find logs'],
 								['/ios/wiki/faq/tweak-conflicts', 'Known issues with other tweaks'],
 							]
 						},
