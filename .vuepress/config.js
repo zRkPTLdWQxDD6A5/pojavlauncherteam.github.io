@@ -55,6 +55,7 @@ module.exports = {
             children: [
 				['/about-pojavlauncher/supported-versions', 'Supported Versions'],
 				['/about-pojavlauncher/supported-platforms', 'Supported Devices'],
+				['/about-pojavlauncher/supported-mods', 'Supported Mods'],
 				['/about-pojavlauncher/pros-cons', 'Pros and Cons (to real Java)'],
                 ['/about-pojavlauncher/security', 'PojavLauncher x Security'],
             ]

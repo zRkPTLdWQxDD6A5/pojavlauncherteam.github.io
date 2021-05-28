@@ -13,7 +13,7 @@ Versions like [Fabric](non-vanilla/fabric), [OptiFine](non-vanilla/optifine), an
 
 We need to talk.
 
-Mods are pretty cool--extending the possible features of Minecraft with a simple file. The issue with mods on PojavLauncher for iOS is mainly just the memory limits make modding capabilities harder. If you install [PojavOptimize](https://github.com/Doregon/PojavLauncher_iOS/wiki/Making-performance-better), you may be able to circumvent this issue (as one of the mods included helps reduce memory usage). Small mods should run fine--especially if they only add blocks or it's OptiFine. Be careful with big mods, however, as either jetsam will kill the app or you'll run out of memory.
+Mods are pretty cool--extending the possible features of Minecraft with a simple file. The issue with mods on PojavLauncher for iOS is mainly just the memory limits make modding capabilities harder. If you install [PojavOptimize](performance), you may be able to circumvent this issue (as one of the mods included helps reduce memory usage). Small mods should run fine--especially if they only add blocks or it's OptiFine. Be careful with big mods, however, as either jetsam will kill the app or you'll run out of memory.
 
 And now for shaders. Support for shaders is very limited, and you should expect to see some major issues if you're using a shader that hasn't been green-lighted. Sildur's Shaders works, and so does the Open4Es pack [here](https://github.com/Open4Es/Open4Es-Shader-Android) for **sure**, some others may work but they haven't been thoroughly documented as of this writing.
 
