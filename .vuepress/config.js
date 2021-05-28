@@ -195,6 +195,7 @@ module.exports = {
 							path: '/ios/wiki/going-further/',
 							children: [
 								['/ios/wiki/going-further/switching-mc-versions', 'Switching Minecraft versions'],
+								['/ios/wiki/going-further/performance', 'Improving Performance'],
 								{
 									title: 'Installing non-vanilla Minecraft',
 									collapsable: true,
