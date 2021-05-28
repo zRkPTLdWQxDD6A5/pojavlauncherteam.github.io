@@ -3,7 +3,7 @@
 PojavLauncher has been specifically tailored for mobile devices, and supports many devices. 
 
 ## Android
-Minimum: Devices with Android 5.0 (or later) and 1GB RAM
+Minimum: Devices with Android 5.0 (or later) and 1GB RAM  
 Recommended: Devices with Android 8.0 (or later) and 4GB RAM
  
 ## iOS
