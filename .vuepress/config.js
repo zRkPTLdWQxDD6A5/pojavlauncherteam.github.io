@@ -53,6 +53,7 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
+            	['/about-pojavlauncher/legal', 'Is it legal?'],
 				['/about-pojavlauncher/supported-versions', 'Supported Versions'],
 				['/about-pojavlauncher/supported-platforms', 'Supported Devices'],
 				['/about-pojavlauncher/supported-mods', 'Supported Mods'],
