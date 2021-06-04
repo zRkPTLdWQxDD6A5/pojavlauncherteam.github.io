@@ -8,7 +8,7 @@
 
 ## How to install (RELEASES)
 
-* Link to the releases can be found [here](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
+* Link to the releases can be found [here](https://github.com/PojavLauncherTeaMm/PojavLauncher/releases)
 
 * Select a Release (Latest verified (✔️) release preferred)
 
@@ -16,6 +16,8 @@
 
 * Click to either `app-debug.apk` or `app-noruntime-apk`
 ## How to install (ACTIONS) ?
+
+* Make sure you're signed into GitHub
 
 * Link to the action builds can be found [here](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
 
