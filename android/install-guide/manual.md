@@ -17,6 +17,8 @@
 * Click to either `app-debug.apk` or `app-noruntime-apk`
 ## How to install (ACTIONS) ?
 
+* Make sure you're signed into GitHub
+
 * Link to the action builds can be found [here](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
 
 * Select an action with a green check (✔️,approved)
