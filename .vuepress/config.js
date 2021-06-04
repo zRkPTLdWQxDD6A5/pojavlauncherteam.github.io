@@ -45,6 +45,10 @@ module.exports = {
     themeConfig: {
         lastUpdated: true,
         repo: 'https://github.com/PojavLauncherTeam/pojavlauncherteam.github.io',
+        repoLabel: 'Contribute',
+        docsBranch: 'main',
+        nextLinks: false,
+        prevLinks: false,
 		editLinks: true,
 		editLinkText: 'Help us improve this page!',
         logo: '/homepage.png',
