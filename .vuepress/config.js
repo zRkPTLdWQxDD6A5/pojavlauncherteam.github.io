@@ -158,7 +158,7 @@ module.exports = {
                     collapsable: true,
 					sidebarDepth: 1,
                     children: [
-						['/ios/wiki/controls', 'Using the controls'],
+						['/ios/wiki/faqcontrols', 'Using the controls'],
 						{
 							title: 'FAQ',
 							collapsable: true,
@@ -167,6 +167,7 @@ module.exports = {
 								['/ios/wiki/faq/jailbreak', 'Why does iOS need a jailbreak?'],
 								['/ios/wiki/faq/logs', 'Where to find logs'],
 								['/ios/wiki/faq/tweak-conflicts', 'Known issues with other tweaks'],
+								['/ios/wiki/faq/controls', 'Using the controls'],
 							]
 						},
                         {
