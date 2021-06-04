@@ -8,7 +8,7 @@
 
 ## How to install (RELEASES)
 
-* Link to the releases can be found [here](https://github.com/PojavLauncherTeaMm/PojavLauncher/releases)
+* Link to the releases can be found [here](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
 
 * Select a Release (Latest verified (✔️) release preferred)
 
