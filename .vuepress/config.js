@@ -72,7 +72,6 @@ module.exports = {
                 {
                     title: 'Getting Started',
                     collapsable: true,
-					path: '/android/install-guide/',
                     sidebarDepth: 1,
                     children: [
                         ['/android/install-guide/google-play', 'Google Play'],
@@ -83,14 +82,12 @@ module.exports = {
 				{
 					title: 'Wiki',
 					collapsable: true,
-					path: '/android/wiki/',
 					sidebarDepth: 1,
 					children: [
 						{
 							title: 'Getting Started',
 							collapsable: true,
 							sidebarDepth: 1,
-							path: '/android/wiki/getting-started/',
 							children: [
 								['/android/wiki/getting-started/signing-in', 'Signing into the launcher'],
 							]
@@ -99,7 +96,6 @@ module.exports = {
 							title: 'FAQ',
 							collapsable: true,
 							sidebarDepth: 1,
-							path: '/android/wiki/faq/',
 							children: [
 								['/android/wiki/faq/optimizing.md', 'Optimizing PojavLauncher'],
 							]
@@ -108,14 +104,12 @@ module.exports = {
 							title: 'Troubleshooting',
 							collapsable: true,
 							sidebarDepth: 1,
-							path: '/android/wiki/troubleshooting/',
 							children: [
 								['/android/wiki/troubleshooting/basics', 'Basic troubleshooting steps'],
 								{
 									title: 'Specific issues',
 									collapsable: true,
 									sidebarDepth: 1,
-									path: '/android/wiki/troubleshooting/specific/',
 									children: [
                                     ]
                                 }
@@ -125,7 +119,6 @@ module.exports = {
 							title: 'Going further',
 							collapsable: true,
 							sidebarDepth: 1,
-							path: '/android/wiki/going-further/',
 							children: [
 								['/android/wiki/going-further/switching-mc-versions', 'Switching Minecraft versions'],
 								{
@@ -153,7 +146,6 @@ module.exports = {
                     title: 'Getting Started',
                     collapsable: true,
                     sidebarDepth: 1,
-					path: '/ios/install-guide/',
                     children: [
 						['/ios/install-guide/procursus', 'Procursus'],
 						['/ios/install-guide/doregon-repo', 'Non-Procursus'],
@@ -164,7 +156,6 @@ module.exports = {
 				{
                     title: 'Wiki',
                     collapsable: true,
-					path: '/ios/wiki/',
 					sidebarDepth: 1,
                     children: [
 						['/ios/wiki/controls', 'Using the controls'],
@@ -172,7 +163,6 @@ module.exports = {
 							title: 'FAQ',
 							collapsable: true,
 							sidebarDepth: 1,
-							path: '/ios/wiki/faq/',
 							children: [
 								['/ios/wiki/faq/jailbreak', 'Why does iOS need a jailbreak?'],
 								['/ios/wiki/faq/logs', 'Where to find logs'],
@@ -183,7 +173,6 @@ module.exports = {
 							title: 'Troubleshooting',
 							collapsable: true,
 							sidebarDepth: 1,
-							path: '/ios/wiki/troubleshooting/',
 							children: [
 								['/ios/wiki/troubleshooting/basics', 'Basic troubleshooting steps'],
 								{
@@ -200,7 +189,6 @@ module.exports = {
 							title: 'Going further',
 							collapsable: true,
 							sidebarDepth: 1,
-							path: '/ios/wiki/going-further/',
 							children: [
 								['/ios/wiki/going-further/switching-mc-versions', 'Switching Minecraft versions'],
 								['/ios/wiki/going-further/performance', 'Improving Performance'],
