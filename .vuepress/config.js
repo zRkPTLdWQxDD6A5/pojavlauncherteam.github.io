@@ -158,7 +158,6 @@ module.exports = {
                     collapsable: true,
 					sidebarDepth: 1,
                     children: [
-						['/ios/wiki/faqcontrols', 'Using the controls'],
 						{
 							title: 'FAQ',
 							collapsable: true,
