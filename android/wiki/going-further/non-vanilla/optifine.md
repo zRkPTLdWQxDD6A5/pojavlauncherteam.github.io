@@ -1,14 +1,10 @@
 # Installing and setting up Optifine
 
-## *Optifine will make your textures look in High Graphics and maybe add Shaders if you know how to use it!*
+## Optifine will make your textures look high graphics and maybe add shaders if you know how to use it!
 
 ### What is Optifine ?
 
-* OptiFine is a modified version of Minecraft sporting optimizations and supporting shaders.
-
-* It allows Minecraft to run faster and look better with full support for HD textures and many configuration options.
-
-* In short term, your minecraft needs it.
+* OptiFine is a modified version of Minecraft sporting optimizations and supporting shaders. It allows Minecraft to run faster and look better with full support for HD textures and many configuration options to fit your needs.
 
 ### How to download Optifine ?
 
@@ -20,33 +16,19 @@
 
 ### How to install ?
 
-* Open PojavLauncher and select Options, then select Launch a Mod Installer (Forge, LabyMod, Forge etc..)
+1. Open PojavLauncher and select Options, then select Launch a Mod Installer (Forge, LabyMod, Forge etc..)
 
-* Press The Red cross mark ❌ in order to close the log and press Install on the Optifine GUI
+2. Press the red cross mark ❌ in order to close the log and press Install on the Optifine GUI
 
-* It will automatically install Optifine for your version
-
-### How do I launch it ?
-
-* It's easy, open the versions list and scroll down, you'll see the Optifine installation there!
+3. It will automatically install Optifine for your version
 
 ### How can I be sure whether the Optifine is Installed or not ?
 
-* You can Check:  
- 
-  - The versions list
+You can check
 
-   - Main Menu After You launch it
-
-    - And video settings
-  
-  to see whether It's installed or not.
-
-
-
-
-
-
+- versions list
+- Main menu, bottom left should say Minecraft (modded) or OptiFine
+- Video settings should have a whole new array of options available to toggle and switch
 
 
 
