@@ -129,6 +129,7 @@ module.exports = {
 										['/android/wiki/going-further/non-vanilla/forge', 'Forge'],
 										['/android/wiki/going-further/non-vanilla/fabric', 'Fabric'],
 										['/android/wiki/going-further/non-vanilla/optifine', 'OptiFine'],
+                                                                                ['/android/wiki/going-further/non-vanilla/hacking', 'Hacked clients'],
 									]
 								},
 							]
