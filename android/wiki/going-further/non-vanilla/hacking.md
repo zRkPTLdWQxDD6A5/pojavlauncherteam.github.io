@@ -1,10 +1,10 @@
 # Getting a hacked client in PojavLauncher
 
-## What is a Hack Client?
+## What is a hack client?
 
 A hack client is a tool, where it has modules used for hacking, or either trolling. Examples of a hack client are Wurst, Impact, etc. Some hack clients needs a modclient like Forge or Fabric.
 
-### Can I use a Hack Client in PojavLauncher?
+### Can I use a hack client in PojavLauncher?
 
 Yes. You can.
 
@@ -15,7 +15,7 @@ These are the hack clients that can be installed in PojavLauncher, with their ce
 [ForgeWurst](https://forge.wurstclient.net/)   
 [Impact](https://impactclient.net/download?platform=jar)   
 
-### How do i install a Hack Client in PojavLauncher?
+### How do I install a hack client in PojavLauncher?
 **For Wurst**
 
 ***Without Forge or with OptiFine***
