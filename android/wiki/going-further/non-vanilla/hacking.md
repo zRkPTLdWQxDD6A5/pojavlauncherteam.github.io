@@ -37,7 +37,7 @@ Note: You must download and install Forge or Fabric for this to work.  Fabric us
 
 **For Impact**
 
-If we recall, Impact has several installation types. The table below will explain it.
+Impact has several installation types. The table below will explain it.
 | Official Launcher | Forge Mods | Forge + Liteloader | MultiMC Instance | Show Version JSON |
 |---|---|---|---|---|
 | Downloads impact over the Official Launcher (PojavLauncher) | Downloads Impact for [Forge](https://files.minecraftforge.net/) | Downloads Impact for Forge + [Liteloader](https://www.liteloader.com/explore/docs/user:install:forge#mod) ~~(forge 🤝 liteloader)~~ | Downloads Impact for [MultiMc](https://multimc.org/) | Downloads the JSON file only, not all the resources (enable data/wifi when you hit play so that it would download the resources.) |
@@ -49,4 +49,8 @@ If we recall, Impact has several installation types. The table below will explai
 ### Supported Installation Type/s
 NOTE: PojavLauncher supports 3 Impact Installation types, and those are **Official Launcher, which installs via PojavLauncher**, **Forge Mods, which installs for Forge**, and **Show Version JSON, which downloads a Impact JSON file.**
 
-Installation is simple as 1, 2, 3. Dowmload [impact](https://impactclient.net/download?platform=jar), copy the downloaded file to ```0/games/PojavLauncher/```, open PojavLauncher, tap '**Options**', tap ***Mod Installer (Forge, LabyMod, Forge etc..)*** ,scroll down until you see games, tap it, tap PojavLauncher, then tap [ImpactInstaller-0.9.4.jar], wait if anyhing appears behind logs, tap '❌',  nove the mouse around to the 'Install For' tab (move around to the 🔻), select your prefered installation type, then move the mouse around to the '**Install**' tab, wait for it to dowmload (or showing 'Impact is successfully installed'), move around to the 'ok' tab, then tap **Force Exit**. Easy as that.
+Installation is simple as 1, 2, 3. 
+
+1. Download [impact](https://impactclient.net/download?platform=jar)
+2. Copy the downloaded file to ```0/games/PojavLauncher/``` 
+3. Open PojavLauncher, tap '**Options**', tap ***Mod Installer (Forge, LabyMod, Forge etc..)*** ,scroll down until you see games, tap it, tap PojavLauncher, then tap `ImpactInstaller-0.9.4.jar`, wait if anyhing appears behind logs, tap '❌',  nove the mouse around to the 'Install For' tab (move around to the 🔻), select your prefered installation type, then move the mouse around to the '**Install**' tab, wait for it to dowmload (or showing 'Impact is successfully installed'), move around to the 'ok' tab, then tap **Force Exit**. Easy as that.
