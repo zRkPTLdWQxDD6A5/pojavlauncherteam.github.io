@@ -16,7 +16,8 @@ These are the hack clients that can be installed in PojavLauncher, with their ce
 [Impact](https://impactclient.net/download?platform=jar)   
 
 ### How do I install a hack client in PojavLauncher?
-**For Wurst**
+
+#### Wurst
 
 ***Without Forge or with OptiFine***
 
@@ -27,7 +28,7 @@ These are the hack clients that can be installed in PojavLauncher, with their ce
 5. Scroll down until you see games, tap it, tap PojavLauncher, then tap `Wurst Installer.jar`
 6. Wait. If anyhing appears behind logs, tap '❌'select your version, then move the mouse around to the 'install' tab. Wait for it to download, then tap **Force Close** and **Ok**.
 
-***With Forge or Fabric*** 
+***With Forge or Fabric***   
 Note: You must download and install Forge or Fabric for this to work.  Fabric users also require the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api).
 
 1. Download [ForgeWurst](https://forge.wurstclient.net/).  
@@ -35,19 +36,22 @@ Note: You must download and install Forge or Fabric for this to work.  Fabric us
 3. Open PojavLauncher.  
 4. Once you open Forge or Fabric, Wurst will be loaded for you!  
 
-**For Impact**
+#### Impact
 
 Impact has several installation types. The table below will explain it.
-| Official Launcher | Forge Mods | Forge + Liteloader | MultiMC Instance | Show Version JSON |
-|---|---|---|---|---|
-| Downloads impact over the Official Launcher (PojavLauncher) | Downloads Impact for [Forge](https://files.minecraftforge.net/) | Downloads Impact for Forge + [Liteloader](https://www.liteloader.com/explore/docs/user:install:forge#mod) ~~(forge 🤝 liteloader)~~ | Downloads Impact for [MultiMc](https://multimc.org/) | Downloads the JSON file only, not all the resources (enable data/wifi when you hit play so that it would download the resources.) |
-####  Other available options
-- Minecraft Version: the area where you will select the minecraft version that you want Impact to install
+
+***Official Launcher*** - Downloads and installs as a complete client.   
+***Forge Mods*** - Downloads for Forge.  
+***Forge + Liteloader*** - Downloads for Forge and Liteloader. ~~(forge 🤝 liteloader)~~  
+***MultiMC** Downloads for [MultiMC](https://multimc.org/).  
+***Show Version JSON*** - Downloads the .json only, not the resources. This means that the first run of Impact requires that you have internet.  
+***Other available options***   
+- Minecraft Version: the area where you will select the Minecraft version that you want Impact to install
 - Impact Version: the area where you will select the Impact Version.
 - Include Optifine: Includes optifine with Impact
 
-### Supported Installation Type/s
-NOTE: PojavLauncher supports 3 Impact Installation types, and those are **Official Launcher, which installs via PojavLauncher**, **Forge Mods, which installs for Forge**, and **Show Version JSON, which downloads a Impact JSON file.**
+**Supported Installation Type/s**  
+NOTE: PojavLauncher supports 3 Impact Installation types, and those are **Official Launcher**, **Forge Mods**, and **Show Version JSON**
 
 Installation is simple as 1, 2, 3. 
 
