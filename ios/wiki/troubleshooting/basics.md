@@ -25,7 +25,7 @@ If PojavLauncher is misbehaving or not working at all, you can try some self-rep
 
 **Check the issues tab.** See anyone else with the same issue? Maybe an already closed one with a good answer? Checking out past issues can benefit greatly.
 
-**Getting Cr4shed logs?** PojavLauncher has issues with older iOS devices that only have 1GB of memory, and can have issues with newer ones as well. These issues are explained on the [Making performance better](Making-performance-better) page.
+**Getting Cr4shed logs?** PojavLauncher has issues with older iOS devices that only have 1GB of memory, and can have issues with newer ones as well. These issues are explained on the [Making performance better](../going-further/performance) page.
 
 **Reinstall PojavLauncher.** Possibly try using a different build as well. Doregon hosts multiple versions of PojavLauncher on his repository--if you installed `pojavlauncher`, try using `pojavlauncher-dev` instead.
 
