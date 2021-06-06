@@ -42,6 +42,11 @@ module.exports = {
 	    }
 	  },
 
+    theme: 'vuepress-theme-succinct',
+    globalUIComponents: [
+        'ThemeManager'
+    ],
+
     themeConfig: {
         lastUpdated: true,
         repo: 'https://github.com/PojavLauncherTeam/pojavlauncherteam.github.io',
