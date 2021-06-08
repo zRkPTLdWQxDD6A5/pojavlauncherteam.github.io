@@ -14,7 +14,7 @@
 
 * You should select the version you want to install optifine to. For example, if you want to play on 1.12.2, then you should select Optifine 1.12.2.
 
-### How to install ?
+### How to install to PojavLauncher ?
 
 1. Open PojavLauncher and select Options
 
