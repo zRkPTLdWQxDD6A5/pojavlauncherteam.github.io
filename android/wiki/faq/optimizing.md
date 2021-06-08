@@ -4,6 +4,7 @@
 
 ### 1- Messing around with Java arguments
 
+**WARNING⚠️:Typing wrong arguments may lead your game to crashes, delete those arguments if you think that crash is related to those arguments.**
 You can change Java arguments in order to increase your [FPS](https://en.wikipedia.org/wiki/Frame_rate)
 
 * In PojavLauncher, Go to `Settings`
@@ -54,11 +55,13 @@ and much more!
 > Be sure you have `Show hidden folders` open, otherwise you can't access `.minecraft` folder
 * Then extract the zip you donwloaded to anywhere you want
 
-* Then 
+* Then copy the contents in it (config, mods etc..)
 
-* Go to `/sdcard/games/PojavLauncher/.minecraft/`
+* Paste them to `/sdcard/games/PojavLauncher/.minecraft/`
 
+* Download and install fabric (For more info click [here](https://pojavlauncherteam.github.io/android/wiki/going-further/non-vanilla/fabric.html)
 
+* Launch the fabric from the versions list
 
 
 
