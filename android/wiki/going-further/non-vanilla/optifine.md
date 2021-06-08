@@ -16,17 +16,17 @@
 
 ### How to install to PojavLauncher ?
 
-1. Open PojavLauncher and select Options
+1. Open PojavLauncher and select `Options`
 
 2. Then select `Launch a Mod Installer (Forge, LabyMod, Forge etc..)`
 
-3. After that, select the Optifine file you downloaded
+3. After that, select the [Optifine](https://optifine.net/home) file you downloaded
 
-4. Press the red cross mark ❌ in order to close the log
+4. Press the red cross mark (❌) in order to close the log
 
 5. Finally press `Install` on the Optifine GUI
  
-6. It will automatically install Optifine for your version
+6. It will automatically install Optifine for your selected version
 
 ### How can I be sure whether the Optifine is Installed or not ?
 
