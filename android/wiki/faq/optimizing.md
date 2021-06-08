@@ -1,64 +1,62 @@
-# Installing and setting up Optifine
+# Optimizing Minecraft in PojavLauncher
 
-## *Optifine will make your textures look in High Graphics and maybe add Shaders if you know how to use it!*
+## *Minecraft is a lot more fun to play when you're sitting at more than 1-8 FPS, which is common for older devices. This page will show you how you can improve your gameplay performance and experience.*
 
-### What is Optifine ?
+### 1- Messing around with Java arguments
 
-* OptiFine is a modified version of Minecraft targeted for improving performance and supports shaders.
+You can change Java arguments in order to increase your [FPS](https://en.wikipedia.org/wiki/Frame_rate)
 
-* It allows Minecraft to run faster and look better with full support for HD textures and many configuration options.
+* In PojavLauncher, Go to `Settings`
 
-* In short term, your minecraft needs it.
+* Then Scroll down and select `JVM Arguments`
 
-### How to download Optifine ?
+* Type the JVM Arguments you found (don't forget to put space in between, and remove spaces on beginning and end)
 
-* You can download from it's official website by clicking [here](https://www.optifine.net/downloads)
+Your game should be faster/lower depending on the JVM Arguments you typed inside.
 
-### Which one to select ?
+### 2- Lowering Resolution
 
-* You should select the version you want to install optifine to. For example, if you are playing 1.12.2, you should select Optifine 1.12.2.
+Lowering Resolutin affects the performance a lot! You can increase it if you want better graphics than you have or decrease it to have more FPS.
 
-### How to install ?
+* Go to `Settings`
 
-* Open PojavLauncher and select Options, then select Launch a Mod Installer (Forge, LabyMod, Forge etc..)
+* Then scroll down and use the slider to increase/decrease the resolution of your game
 
-* Press The Red cross mark ❌ in order to close the log and press Install on the Optifine GUI
+### 3- PojavOptimize
 
-* It will automatically install Optifine for your version
+Originally made to help his OnePlus 6T, PojavLauncher Discord moderator Chuck_Norris_ has made [PojavOptimize](https://github.com/Doregon/PojavOptimize) , a collection of Fabric mods to boost performance,
 
-### How do I launch it ?
+That includes the mods;
 
-* It's easy, open the versions list and scroll down, you'll see the Optifine installation there!
+- Sodium, a new rendering engine.
 
-### How can I be sure whether the Optifine is Installed or not ?
+- Starlight, a rework of the light engine.
 
-* You can Check:  
- 
-  - The versions list
+- FerriteCore, to reduce memory usage.
 
-   - Main Menu After You launch it
+- Smoothboot, to reduce the load times for lower-end devices.
 
-    - And video settings
-  
-  to see whether It's installed or not.
+- OKZoomer, for OptiFine zoom controls.
 
+- NotEnoughCrashes, to report more details on crash logs and allow you to keep playing.
 
+and much more!
 
+### How to download it ?
 
+* Click [here](https://github.com/Doregon/PojavOptimize/releases) and select the latest verified (✔️) release
 
+* Then scroll down and select `assets` and select the zip file to donwload the modpack
 
+### So how do i install it ?!
 
+* First open up a [File Manager](https://play.google.com/store/search?q=File%20Manager)
+> Be sure you have `Show hidden folders` open, otherwise you can't access `.minecraft` folder
+* Then extract the zip you donwloaded to anywhere you want
 
+* Then 
 
-
-
-
-
-
-
-
-
-
+* Go to `/sdcard/games/PojavLauncher/.minecraft/`
 
 
 
@@ -72,4 +70,22 @@
 
 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
