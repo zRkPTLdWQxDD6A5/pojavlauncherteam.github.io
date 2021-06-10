@@ -1,11 +1,13 @@
 # Getting PojavLauncher from source
 
+### This page is going to be overhauled within the next couple of days!
+
 ## Prerequesites
 
 Here's what you'll need to build PojavLauncher:
 
-* A version of Xcode that is capable of building for iOS 13.
-   * So, Xcode 11.0 or later. This means you need **macOS Mojave 10.14.4** or higher.
+* A version of Xcode that is capable of building for iOS 13.4.
+   * So, Xcode 11.4 or later. This means you need **macOS Catalina 10.15.2** or higher.
 * Java Development Kit (JDK) 8
 * Homebrew
 * `gradle`, `cmake`, `wget`, `ldid`, `dpkg` and `fakeroot`
