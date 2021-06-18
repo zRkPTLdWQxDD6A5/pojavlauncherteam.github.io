@@ -33,7 +33,7 @@ cd /path/to/installers.jar
 ```
 /usr/lib/jvm/java-16-openjdk/bin/java -cp OptiInst.jar optiinst.OptiInst OptiFine_version_XXX.jar /var/mobile/Documents/minecraft
 
-# Change XXX to the name of the OptiFine installer
+# Change XXX to the name of the OptiFine installer (i.e. OptiFine_1.16.5_HD_U_G8.jar)
 ```
 
 **Tip:** If you don't want all of the output, add `> output.log` to the end of the command.

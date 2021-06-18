@@ -28,9 +28,11 @@ cd /var/mobile/Documents/minecraft
 5. Next, type this command to install Fabric (if you symlinked Java as explained on the installing page, you can just type `java`):
 
 ```
-/usr/lib/jvm/java-16-openjdk/bin/java -jar /path/to/fabric-installer.jar client -dir . -mcversion version
+/usr/lib/jvm/java-16-openjdk/bin/java -jar /path/to/fabric-installer-XXX.jar client -dir . -mcversion version
 
-# Change /path/to/ to where the jar actually is, and version to the version you want to install (i.e. 1.16.5).
+# Change /path/to/ to where the jar actually is (i.e. /var/mobile/Documents),
+# version to the version you want to install (i.e. 1.16.5),
+# and XXX to the name of the Fabric installer (i.e. fabric-installer-0.7.4.jar)
 ```
 
 **Tip:** If you don't want all of the output, add `> output.log` to the end of the command.

@@ -25,7 +25,7 @@ You'll need a few things:
 ```
 cd /path/to/installers.jar
 
-# Change /path/to/ to where the jars actually are
+# Change /path/to/ to where the jars actually are (i.e. /var/mobile/Documents)
 ```
 
 4. Next, type this command to install Forge (if you symlinked Java as explained on the installing page, you can just type `java`):
