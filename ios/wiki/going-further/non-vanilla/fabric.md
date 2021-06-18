@@ -30,10 +30,12 @@ cd /var/mobile/Documents/minecraft
 ```
 /usr/lib/jvm/java-16-openjdk/bin/java -jar /path/to/fabric-installer.jar client -dir . -mcversion version
 
-# Change /path/to/ to where the jar actually is, and version to the version you want to install.
+# Change /path/to/ to where the jar actually is, and version to the version you want to install (i.e. 1.16.5).
 ```
 
 **Tip:** If you don't want all of the output, add `> output.log` to the end of the command.
+
+**Note:** As of the current release, you can only install and use 1.16.5.
 
 6. Once complete, you can exit your terminal and open Filza again, this time moving to /var/mobile/Documents/minecraft and opening a preview of `launcher_profiles.json`
 
