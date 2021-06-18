@@ -22,11 +22,17 @@ You'll need a few things:
 
 4. Change your directory to where both of the .jar files are located.
 
-`cd /path/to/installers.jar`
+```
+cd /path/to/installers.jar
+
+# Change /path/to/ to where the jars actually are
+```
 
 4. Next, type this command to install Forge (if you symlinked Java as explained on the installing page, you can just type `java`):
 
-`/usr/lib/jvm/java-16-openjdk/bin/java -cp forge-installer-headless-1.0.1.jar:forge-installer.jar me.xfl03.HeadlessInstaller -progress -installClient /var/mobile/Documents/minecraft`
+```
+/usr/lib/jvm/java-16-openjdk/bin/java -cp forge-installer-headless-1.0.1.jar:forge-installer.jar me.xfl03.HeadlessInstaller -progress -installClient /var/mobile/Documents/minecraft
+```
 
 **Tip:** If you don't want all of the output, add `> output.log` to the end of the command.
 
