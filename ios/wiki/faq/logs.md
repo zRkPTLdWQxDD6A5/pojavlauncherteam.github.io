@@ -1,6 +1,6 @@
 # Where can I find logs?
 
-* For the PojavLauncher-created log, find `/var/mobile/Documents/minecraft/latestlog.txt`. This will only be created if the JVM was able to start.
+* For the PojavLauncher-created log, find `/var/mobile/Documents/.pojavlauncher/latestlog.txt`. This will only be created if the JVM was able to start.
 
 * For the JVM-created log, find `/var/mobile/Documents/minecraft/hs_err_pidXXXX.log`. This one will only be created if there's an issue with the JVM.
 
