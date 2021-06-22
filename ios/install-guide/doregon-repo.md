@@ -12,6 +12,6 @@ Doregon has taken the liberty to host PojavLauncher on his repository for those 
 4. Download and install the package depending on your preference:
     * `pojavlauncher` installs the latest stable build--meaning the latest release on the GitHub repository. This one's good for making sure you're not going to get updates every time a new commit is pushed, or you want the stability because there isn't a chance of the game dying with every update.
     * `pojavlauncher-dev` installs the latest successful commit--meaning that you're getting the latest features and code-changes. This one's good if you want to test out and help the developers work out bugs and kinks, but has the chance of being unstable and buggy at times. It also updates regularly, so make sure you visit his repo and check for a new update from time to time.
-    * ~~`pojavlauncher-zink`~~ Please see the [Zink FAQ](../faq/zink.md) regarding the status of `pojavlauncher-zink`.
+    * ~~`pojavlauncher-zink`~~ Please see the [Zink FAQ](../wiki/faq/zink.md) regarding the status of `pojavlauncher-zink`.
 
 Everything will be installed for you. The dependency--**openjdk-16-jre**--simply includes the Java 16 package, required to run Minecraft.

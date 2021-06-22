@@ -173,6 +173,7 @@ module.exports = {
 								['/ios/wiki/faq/logs', 'Where to find logs'],
 								['/ios/wiki/faq/tweak-conflicts', 'Known issues with other tweaks'],
 								['/ios/wiki/faq/controls', 'Using the controls'],
+								['/ios/wiki/faq/zink', 'A word about Zink...'],
 							]
 						},
                         {
