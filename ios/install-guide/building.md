@@ -14,11 +14,9 @@ Since you can compile PojavLauncher on more than one operating system, you'll ne
 	- `cmake`, `ldid`, `fakeroot`, `dpkg`, and `gradle`.  
 
 **iOS**  
-- A jailbreak
-	- We recommend using Procursus
-	- `clang`, `dpkg-dev`, and `openjdk-16-jdk` on Procursus
-	- `clang` and `dpkg-perl` on others
-	- Make sure you have `openjdk-16-jdk`, not `openjdk-16-jre`. Other jailbreaks without Procursus do not have `openjdk-16-jdk`.
+- A jailbreak with Procursus
+	- `clang`, `dpkg-dev`, and `openjdk-16-jdk`
+	- Make sure you have `openjdk-16-jdk`, not `openjdk-16-jre`. 
 - An SDK for iOS 14 or higher
 	- You can get usable SDKs from [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs).
 	- You need to put this in `/usr/share/SDKs` as `iPhoneOS.sdk`. Symlinking also works here.
@@ -35,8 +33,6 @@ This option compiles the Objective-C code that is used to draw the UI and interf
 
 ### make java
 This option compiles the Java code that is used to interface with Minecraft itself (located in `JavaApp`).
-
-**Note:** If compiling on iOS, you cannot use this option unless you have a Procursus bootstrap.
 
 ### make extras
 This options compiles the assets and storyboards that are used as the foundation of the app (located in `Natives/Assets.xcassets` and `Natives/en.lproj`).
