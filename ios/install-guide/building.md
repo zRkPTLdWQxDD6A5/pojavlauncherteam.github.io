@@ -1,6 +1,6 @@
 # Getting PojavLauncher from source
 
-PojavLauncher is open-source, and whether it be that you wish to tet code changes or try out the newest features manually, you can!
+PojavLauncher is open-source, and whether it be that you wish to test code changes or try out the newest features manually, you can!
 
 ## Prerequesites
 We've recently overhauled our build system to use Makefiles rather than shell scripts, so regardless of the build OS, you're going to need `make`.
