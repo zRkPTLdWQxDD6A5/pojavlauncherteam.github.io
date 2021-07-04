@@ -9,4 +9,4 @@ PojavLauncher follows along with the Terms that Mojang has laid out for its user
 - Premium accounts get the full experience.
 - Vanilla game files such as libraries, the client and assets are downloaded from Mojang server, not third-party servers.
 
-There's no file modification or piracy happening with PojavLauncher, as you're still following Mojang's Terms when playing Minecraft. We do not support piracy, and do not provide support for those who attempt to get premium accounts for free or wish to interfere with PojavLauncher to bypass these restrictions.
+There's no file modification or piracy happening with PojavLauncher, as you're still following Mojang's Terms when playing Minecraft (although offline is in the grey area). We do not support piracy, and do not provide support for those who attempt to get premium accounts for free or wish to interfere with PojavLauncher to bypass these restrictions.

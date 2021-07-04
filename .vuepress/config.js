@@ -76,7 +76,8 @@ module.exports = {
 			sidebarDepth: 1,
 			children: [
 				['/updates/117', 'Preliminary support for 1.17'],
-				['/updates/java-8-ios', 'OpenJDK 8 is coming to iOS']
+				['/updates/java-8-ios', 'OpenJDK 8 is coming to iOS'],
+				['/updates/local', 'Offline mode is going places']
 			]
 		},
         {
