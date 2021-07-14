@@ -4,8 +4,8 @@ The simple answer is yes.
 
 PojavLauncher follows along with the Terms that Mojang has laid out for its users, meaning that the following points still apply:
 
-- Demo accounts are not able to log in.
-- Offline accounts are restricted to single-player and offline servers. 
+- Demo accounts replace offline accounts (will be fully applied in a future update).
+- Local accounts are offline accounts, which are restricted to single-player and offline servers, and cannot download Minecraft from Mojang's servers. 
 - Premium accounts get the full experience.
 - Vanilla game files such as libraries, the client and assets are downloaded from Mojang server, not third-party servers.
 
