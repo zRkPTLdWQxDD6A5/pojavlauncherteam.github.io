@@ -242,6 +242,8 @@ module.exports = {
 		],
     },
     plugins: [
+		['vuepress-plugin-code-copy', true],
+		['flexsearch'],
         '@vuepress/plugin-back-to-top',
         'vuepress-plugin-smooth-scroll',
         ['vuepress-plugin-medium-zoom',

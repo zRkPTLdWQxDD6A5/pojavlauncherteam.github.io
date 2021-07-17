@@ -21,8 +21,6 @@ jobs:
           submodules: 'recursive'
       - name: Install
         run: npm install
-      - name: Install theme dependency
-        run: npm install -D vuepress-theme-succinct
       - name: Build
         run: npm run build
       - name: Deploy
