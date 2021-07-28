@@ -6,10 +6,16 @@ module.exports = {
     title: 'PojavLauncher',
 	description: 'Minecraft: Java Edition, meet mobile devices.',
     head: [
-        ['meta', {
-            name: 'theme-color',
-            content: '#3eaf7c'
-        }],
+		['meta', {
+			name: 'theme-color',
+			content: '#ffffff',
+			media: '(prefers-color-scheme: light)'
+		}],
+		['meta', {
+			name: 'theme-color',
+			content: '#25262b',
+			media: '(prefers-color-scheme: dark)'
+		}],
         ['meta', {
             name: 'apple-mobile-web-app-capable',
             content: 'yes'
