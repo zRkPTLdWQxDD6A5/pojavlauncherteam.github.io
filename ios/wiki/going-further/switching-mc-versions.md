@@ -9,6 +9,8 @@ In the screen with the play button, tap the version number. A keyboard will pres
 
 Versions like [Fabric](non-vanilla/fabric), [OptiFine](non-vanilla/optifine), and [Forge](non-vanilla/forge) require a bit of extra effort, read there pages to find out more about how to use them.
 
+**Upcoming in v1.3**: You can choose the version from a version picker.
+
 ## Disclaimer
 
 We need to talk.
