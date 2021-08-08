@@ -51,7 +51,7 @@ With:
 
 Example:
 
-`java -jar /sdcard/Download/paper-1.17.1-165.jar -Xms1G -Xmx1G --nogui`
+`java -jar /var/mobile/Documents/paper-1.17.1-165.jar -Xms1G -Xmx1G --nogui`
 
 The server will be launched after some time.
 
