@@ -65,6 +65,8 @@ To shut down the server, simply type `stop` or run this command:
 
 - May cause a respring loop if a server is created and after that, there is too little memory left. If you experience this issue, you can reboot the device, or SSH to your device and run the `killall` command.
 
+- Connecting from an Android phone (or maybe an iOS phone as well) causes crash on the client. (This issue is being tested and investigated.)
+
 # Other methods
 
 - The ability to run Paper on the new mod installer is being tested. An instruction will be made if the tests are successful.
