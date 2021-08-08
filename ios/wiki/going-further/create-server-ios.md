@@ -21,7 +21,7 @@ Type these commands:
 
 With:
 
-<path_to_file> is the path to the downloaded jar.
+`<path_to_file>` is the path to the downloaded jar.
 
 (Pro tip: create a symbolic link for `/usr/lib/jvm/java-16-openjdk/bin/java` as `java`.)
 
@@ -45,9 +45,9 @@ After that, type these commands to start the server (type `java` instead of `/us
 
 With:
 
-[<suffix>] can be (nothing) for bytes, `K` for kilobytes, `M` for megabytes, `G` for gigabytes.
+`[<suffix>]` can be (nothing) for bytes, `K` for kilobytes, `M` for megabytes, `G` for gigabytes.
 
-<path_to_file> is the path to the downloaded jar for Paper.
+`<path_to_file>` is the path to the downloaded jar for Paper.
 
 Example:
 
