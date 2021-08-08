@@ -27,3 +27,5 @@ Each button you see on the GUI has a purpose. Let's go through the buttons from 
 * `Inv` opens your inventory or the creative interface.
 
 * `Esc` opens the pause menu and goes back menus. 
+
+* `Fullscreen`, of F11, toggles fullscreen feature.
