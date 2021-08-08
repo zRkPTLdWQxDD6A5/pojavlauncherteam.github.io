@@ -2,7 +2,7 @@
 
 Although PojavLauncher is mainly client-side, you still can launch a server with it!
 
-Currently, PojavLauncher iOS supports servers up to the latest Minecraft version.
+Currently, PojavLauncher iOS supports servers up to the latest Minecraft version. (Requires Java 16)
 
 # How to launch a Minecraft server using terminal
 
