@@ -57,7 +57,7 @@ The server will be launched after some time.
 
 **You have read all the steps! Now just enjoy the created server!**
 
-To shut down the server, run this command:
+To shut down the server, simply type `stop` or run this command:
 
 `sudo killall -9 java`
 
