@@ -17,14 +17,13 @@ You can launch Paper directly from the launcher by going to Options -> Run a mod
 ### Step 3: Before running the server...
 
 After the first launch, you need to accept the EULA. Go to /games/PojavLauncher/.minecraft and edit the eula.txt file as follows:
-`<something_here>‘
-`eula=true`
+`<something_here> eula=true`
 
 ### Step 4: Run the server
 
 Simply redo step 2. Isn't it easy?
 
-Want to configure the server? Let's go to the next step instead.
+Want to configure the server? Let's go to the next step.
 
 ### Step 5 (optional): Configure the server
 
