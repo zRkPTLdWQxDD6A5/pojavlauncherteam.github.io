@@ -1,6 +1,6 @@
 # Environment variables
 
-PojavLauncher uses many environment variables (don’t confuse with JVM arguments!) to configure the game. You can specify some of them by typing the keys on a file called `custom_env.txt`, with a line break after each key.
+PojavLauncher uses many environment variables (don’t confuse with JVM arguments!) to configure the game. You can specify some of them by typing the keys on a file called `custom_env.txt` (in /var/mobile/Documents/.pojavlauncher), with a line break after each key.
 
 ### Some basic environment variables
 
