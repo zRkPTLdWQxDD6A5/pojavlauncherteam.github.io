@@ -51,3 +51,9 @@ Now simply press OK, the launcher will now launch Paper.
 
 When you want to shut down the server, simply close the mod installer.
 
+# Going further
+
+- With the ability to have 2 PojavLaunchers (the Google Play build and the GitHub build), you can run 2 servers at once! Make sure to modify the `server-port` and `level-name` keys on `server.properties` after the first server launch.
+
+- (Haven’t tested yet) With root access, you can use Termux for running Java 16 (Paper doesn’t support Java 17 at the moment), so you can run a Paper 1.17 server.
+
