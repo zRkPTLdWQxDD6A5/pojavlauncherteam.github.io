@@ -23,7 +23,11 @@ With:
 
 `<path_to_file>` is the path to the downloaded jar.
 
-(Pro tip: create a symbolic link for `/usr/lib/jvm/java-16-openjdk/bin/java` as `java`.)
+Pro tips:
+
+- Put the Paper jar file to `var/mobile/Documents/minecraft` for better access. After doing that, you can just type the name of the file for `<path_to_file>`.
+
+- Create a symbolic link for `/usr/lib/jvm/java-16-openjdk/bin/java` as `java`.
 
 ### Step 3: Before running the server...
 
@@ -64,6 +68,8 @@ To shut down the server, simply type `stop` or run this command:
 ### Known issues with this method
 
 - May cause a respring loop if a server is created and after that, there is too little memory left. If you experience this issue, you can reboot the device, or SSH to your device and run the `killall` command.
+
+- If the terminal process is terminated, the server will be unable to access. A workaround is described below.
 
 - Connecting from an Android phone (or maybe an iOS phone as well) causes crash on the client. (This issue is being tested and investigated.)
 
