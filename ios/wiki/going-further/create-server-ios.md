@@ -83,4 +83,6 @@ To shut down the server, simply type `stop` or run this command:
 
 `cd /var/mobile/Documents/minecraft && java -jar [<some_jvm_arguments>] paper-<version>.jar`
 
+**This is the only known way to prevent crash issue as said above.**
+
 - You can create and run multiple servers at one time! To do this, you need to modify (at least) the `server-port` and `level-name` keys in `server.properties`. Then simply redo step 4.
