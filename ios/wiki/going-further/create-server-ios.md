@@ -70,3 +70,11 @@ To shut down the server, simply type `stop` or run this command:
 # Other methods
 
 - The ability to run Paper on the new mod installer is being tested. An instruction will be made if the tests are successful.
+
+# Going further
+
+- Want to get rid of the terminal? Try setting an Activator (currently broken on iOS 14) action that launch a server with this command:
+
+`cd /var/mobile/Documents/minecraft && java -jar [<some_jvm_arguments>] paper-<version>.jar`
+
+- You can create and run multiple servers at one time! To do this, you need to modify (at least) the `server-port` and `level-name` keys in `server.properties`. Then simply redo step 4.
