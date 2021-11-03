@@ -58,10 +58,21 @@ This is a flag that can be set while installing the app. On iOS/iPadOS 14.2-14.3
 this allows for bullproof JIT to happen regardless of an a debugger being 
 attached. However, these versions already have jailbreaks.
 
+### Using WebAssembly JIT
+
+In this case, the JIT compiler is made to emit WebAssembly where it will be JIT 
+compiled again into native code by WebKit. However, the delay is high as this 
+involves inter-process communication. Addtionally, since this is "double-JIT" 
+the performance would not be as good. This is also unimplemented in java.
+
 ### Run with debugger
 
-This can work, even with latest iOS/iPadOS, tethered with a debugger from 
-another device/PC. This is not convenient. This can also be semi-untehered with 
-[JitterBug](https://github.com/osy/jitterbug) when signed with network extension 
-entitlement with a paid developer account (or when signed with a testflight 
-certificate). However, this is not implemented into PojavLauncher.
+This can work for bulletproof JIT, even with latest iOS/iPadOS, tethered with a 
+debugger from another device ([JitterBug](https://github.com/osy/jitterbug))/PC 
+(AltJIT/libimobiledevice). This is not convenient. This can also be 
+semi-untehered with JitterBug when signed with network extension entitlement 
+with a paid developer account (or when signed with a testflight certificate). 
+The performance will be slightly worse, and you cannot modify jetsam but 
+iOS/iPadOS has a bug where mirror mapped memory is also considered actual memory 
+usage. (Although this can be worked around by not remapping all at once) 
+However, support for jailed debugger JIT is not implemented into PojavLauncher.
