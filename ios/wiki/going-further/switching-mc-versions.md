@@ -3,13 +3,15 @@
 In the official launcher, you can choose to use specific versions. PojavLauncher has this capability as well, although it's a bit trickier.
 
 ## Changing the versions
-In the screen with the play button, tap the version number. A keyboard will present itself to you and you will now be able to change to the version you wish to use. Just make sure it's [supported](../../../about-pojavlauncher/supported-versions.md).
+**In v1.2**: In the screen with the play button, tap the version number. A keyboard will present itself to you and you will now be able to change to the version you wish to use. Just make sure it's [supported](../../../about-pojavlauncher/supported-versions.md).
 
 ![](https://raw.githubusercontent.com/PojavLauncherTeam/website-assets/main/ios/MOV_0134.gif)
 
 Versions like [Fabric](non-vanilla/fabric), [OptiFine](non-vanilla/optifine), and [Forge](non-vanilla/forge) require a bit of extra effort, read there pages to find out more about how to use them.
 
-**Upcoming in v1.3**: You can choose the version from a version picker.
+**Upcoming in v2.0**: You can choose the version from a version picker.
+
+![](https://cdn.discordapp.com/attachments/835802833878122577/906205245749747752/IMG_0275.jpg)
 
 ## Disclaimer
 
