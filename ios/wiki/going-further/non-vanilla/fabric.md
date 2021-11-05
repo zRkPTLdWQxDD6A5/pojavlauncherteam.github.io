@@ -45,7 +45,7 @@ cd /var/mobile/Documents/minecraft
 
 ## Installation (for v2.0)
 
-We’re glad to announce that the mod installer is now available on iOS! It’s GUI-based, so now you can install a wide range of mod loaders with just a few clicks from your screen!
+We’re glad to announce that the mod installer is now available on PojavLauncher iOS! It’s GUI-based, so now you can install a wide range of mod loaders with just a few clicks from your screen!
 
 ![](https://cdn.discordapp.com/attachments/835802833878122577/906207691217719296/IMG_0276.jpg)
 

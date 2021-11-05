@@ -40,4 +40,26 @@ cd /path/to/installers.jar
 
 5. Once complete, you can exit your terminal and open Filza again, this time moving to /var/mobile/Documents/minecraft and opening a preview of `launcher_profiles.json`
 
-6. Copy the text that's in qoutes and to the right of `lastVersionId` and paste it into the version select screen.
+6. Copy the text that's in quotes and to the right of `lastVersionId` and paste it into the version select screen.
+
+## Installation (in v2.0)
+
+Now you can rest your hand for a bit with the new mod installer for PojavLauncher iOS!
+
+![](https://cdn.discordapp.com/attachments/835802833878122577/906216586640244746/IMG_0278.jpg)
+
+To install OptiFine from the mod installer, you need to install openjdk-8-jre package from Doregon’s repo. After the installation, here’s what you need to do:
+
+1. Download the OptiFine installer from their [website](https://optifine.net/).
+
+2. After downloading the file, save it to **Files app.** 
+
+3. Open the launcher, go to Options -> Launcher preferences and switch the Java version to 8. (The Options button is (•••) on iOS 14 and up.)
+
+4. Reopen the launcher, go to Options. Now select ‘Launch a mod installer’.
+
+5. Now you will be prompted to select the installer. Just choose the OptiFine installer you have downloaded.
+
+6. Follow the instructions shown in the screen.
+
+Now OptiFine is installed on your device. Simply reopen the launcher, choose the version and tap Play.
