@@ -43,7 +43,7 @@ cd /path/to/installers.jar
 
 ## Installation (in v2.0)
 
-Fast. Intuitive. Capable. Introducing the all-new mod installer for iOS.
+Fast. Intuitive. Capable. Introducing the all-new mod installer for PojavLauncher iOS.
 
 ![](https://cdn.discordapp.com/attachments/835802833878122577/906214156988993576/IMG_0277.jpg)
 
