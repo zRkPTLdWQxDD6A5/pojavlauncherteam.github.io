@@ -45,7 +45,7 @@ cd /path/to/installers.jar
 
 Fast. Intuitive. Capable. Introducing the all-new mod installer for PojavLauncher iOS.
 
-![](https://cdn.discordapp.com/attachments/835802833878122577/906214156988993576/IMG_0277.jpg)
+![](https://camo.githubusercontent.com/35e618c4e8c78c259df51c16a3bc0c6f71a7b24b7f61d6e41e971b45d8cbb833/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3833353830323833333837383132323537372f3930363231343135363938383939333537362f494d475f303237372e6a7067)
 
 To install Forge from the mod installer, you need to install openjdk-8-jre package from Doregon’s repo. After the installation, here’s what you need to do:
 
@@ -62,4 +62,3 @@ To install Forge from the mod installer, you need to install openjdk-8-jre packa
 6. Follow the instructions shown in the screen.
 
 Now Forge is installed on your device. Simply reopen the launcher, choose the version and tap Play.
-
