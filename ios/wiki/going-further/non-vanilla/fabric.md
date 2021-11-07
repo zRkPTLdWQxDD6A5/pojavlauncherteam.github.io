@@ -47,7 +47,7 @@ cd /var/mobile/Documents/minecraft
 
 We’re glad to announce that the mod installer is now available on PojavLauncher iOS! It’s GUI-based, so now you can install a wide range of mod loaders with just a few clicks from your screen!
 
-![](https://cdn.discordapp.com/attachments/835802833878122577/906207691217719296/IMG_0276.jpg)
+![](https://camo.githubusercontent.com/1e5942f08a5ace38d85010dbb8181efd69ca149985da68d39f66d4785d42b09b/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3833353830323833333837383132323537372f3930363230373639313231373731393239362f494d475f303237362e6a7067)
 
 To install Fabric from the mod installer, you need to install openjdk-8-jre package from Doregon’s repo. After the installation, here’s what you need to do:
 
