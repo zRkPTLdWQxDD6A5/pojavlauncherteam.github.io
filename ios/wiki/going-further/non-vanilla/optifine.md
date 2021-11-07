@@ -46,7 +46,7 @@ cd /path/to/installers.jar
 
 Now you can rest your hand for a bit with the new mod installer for PojavLauncher iOS!
 
-![](https://cdn.discordapp.com/attachments/835802833878122577/906216586640244746/IMG_0278.jpg)
+![](https://camo.githubusercontent.com/d42a00d176af7e2d3b09e8e2fb69daa9f064e6eb956bf84712e88cf35982a9a4/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3833353830323833333837383132323537372f3930363231363538363634303234343734362f494d475f303237382e6a7067)
 
 To install OptiFine from the mod installer, you need to install openjdk-8-jre package from Doregon’s repo. After the installation, here’s what you need to do:
 
