@@ -11,7 +11,7 @@ Versions like [Fabric](non-vanilla/fabric), [OptiFine](non-vanilla/optifine), an
 
 **Upcoming in v2.0**: You can choose the version from a version picker.
 
-![](https://cdn.discordapp.com/attachments/835802833878122577/906205245749747752/IMG_0275.jpg)
+![](https://camo.githubusercontent.com/bed20655361ac292bf377e22d78834146df92bf1cbb306fc713b41aa084a601e/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3833353830323833333837383132323537372f3930363230353234353734393734373735322f494d475f303237352e6a7067)
 
 ## Disclaimer
 
