@@ -1,4 +1,4 @@
-# Why does PojavLauncher requires jailbreak
+# Why does PojavLauncher require jailbreak?
 
 On iOS/iPadOS, every executable needs to be signed or trustcached while having 
 an adhoc signature. Additionally, the memory pages of the processes must also be 
@@ -7,7 +7,7 @@ backed with a signature when they are executed given that they do not have the
 jailed) or has the `get-task-allow` entitlements and has `CS_DEBUGGED` set on 
 it, else the process gets terminated while trying to do it.  Additionally, the 
 `dynamic-codesigning` entitlement is required to create memory pages that are 
-both readable, writable and executable.PojavLauncher uses JIT (Just-In-Time) 
+both readable, writable and executable. PojavLauncher uses JIT (Just-In-Time) 
 compliation for in java to improve performance, which is used to run minecraft. 
 A JIT compiler emits instructions at runtime and then exeute them. This do not 
 work jailed because you can only have readable-executable and readable-writable 
