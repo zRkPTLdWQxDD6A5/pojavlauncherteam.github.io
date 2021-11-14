@@ -10,9 +10,9 @@ If PojavLauncher is misbehaving or not working at all, you can try some self-rep
 
 **Can the JDK itself run?** Open a terminal or SSH connection and type `/usr/lib/jvm/java-16-openjdk/bin/java --version` into the window.
 
-* If it returned **OpenJDK 16...**, then you're good.  
-* If it returned **Permission denied**, run `chmod -R +x /usr/lib/jvm/java-16-openjdk/bin/*` as root.  
-* If it returned **Killed: 9**, run `ldid -S /usr/lib/jvm/java-16-openjdk/bin/java`.  
+* If it returned **OpenJDK 16...**, then you're good.
+* If it returned **Permission denied**, run `chmod -R +x /usr/lib/jvm/java-16-openjdk/bin/*` as root.
+* If it returned **Killed: 9**, run `ldid -s /usr/lib/jvm/java-16-openjdk/bin/java`.
 * If it returned **No such file or directory**, you need to install the JDK.
 
 **Check file system permissions.** Open Filza and look for /var/mobile/Documents/minecraft and tap the info icon. If the user and group are not set to mobile, tap on mobile for each and make sure to select the "Apply to subitems" toggle at the bottom. Then check that the folder's permissions are
