@@ -29,9 +29,9 @@ It’s actually really simple to fix this issue, using a simple tool Doregon's f
 3. Open your favorite terminal or use SSH and type the following command **as root or with sudo:**
 
 ```
-jetsamctl -l 1024 PojavLauncher
+jetsamctl -l <memory_limit> PojavLauncher
 
-# This command tells Jetsam that it's okay to allow PojavLauncher to use as much memory as it wants--although it won't, as the Launcher will only use 1/4.
+# This command tells Jetsam that it's okay to allow PojavLauncher to use as much memory as it wants, up to <memory_limit> MB--although it won't, as the Launcher will only use 1/4.
 ```
 
 4. Profit! Switch back to PojavLauncher and start gaming!

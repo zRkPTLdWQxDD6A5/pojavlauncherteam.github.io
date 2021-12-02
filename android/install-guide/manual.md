@@ -33,10 +33,11 @@
 
 ### APP-DEBUG
 
-* JVM is packaged inside (no need to install runtime)
+* Java 8 is packaged inside (no need to install runtime)
 
 
 ### APP-NORUNTIME-DEBUG
 
 * Java Runtime needs to be selected after launching the app for the first time
 
+**Update:** Java Runtime Manager allows you to install multiple Java versions. (So the choice doesn’t matter)
