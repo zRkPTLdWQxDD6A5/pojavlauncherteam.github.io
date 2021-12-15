@@ -71,7 +71,7 @@ module.exports = {
             	['/about-pojavlauncher/legal', 'Is it legal?'],
 				['/about-pojavlauncher/supported-versions', 'Supported Versions'],
 				['/about-pojavlauncher/supported-platforms', 'Supported Devices'],
-				['/about-pojavlauncher/supported-mods', 'Supported Mods'],
+				['/about-pojavlauncher/unsupported-mods', 'Unsupported Mods'],
                 ['/about-pojavlauncher/security', 'PojavLauncher x Security'],
             ]
         },
