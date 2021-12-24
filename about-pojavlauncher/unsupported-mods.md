@@ -14,8 +14,12 @@
  - [ReplayMod](https://www.replaymod.com/) **(*FFMPEG* wrongly placed)**
  - [Dynamic surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) **(white textures)**
  - Sex mod **(thanks *@Adiixyz*)**
-
- More here: https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948
+ - [BatMod](https://batmod.com/)
+ - [LabbyMod](https://www.labymod.net/en) **(version=1.8.9)**
+ - [Essential Mod](https://essential.gg/) **(with forge and without forge)**
+ 
+  
+ - More here: https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948
 
  ---
 
