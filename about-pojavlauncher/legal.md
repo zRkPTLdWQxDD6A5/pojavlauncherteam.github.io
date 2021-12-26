@@ -1,8 +1,6 @@
 # Is PojavLauncher legal?
 
-The simple answer is yes.
-
-PojavLauncher follows along with the Terms that Mojang has laid out for its users, meaning that the following points still apply:
+PojavLauncher is legal, as it follows along with the Terms that Mojang has laid out for its users, meaning that the following points still apply:
 
 - Demo accounts replace offline accounts (will be fully applied in a future update).
 - Local accounts are offline accounts, which are restricted to single-player and offline servers, and cannot download Minecraft from Mojang's servers. 
